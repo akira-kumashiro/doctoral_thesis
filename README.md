@@ -3,8 +3,6 @@
 This is my doctoral thesis in English.  
 
 # Description of the files
-| [博士論文熊代R4-1.pdf](https://github.com/akira-kumashiro/doctoral_thesis/blob/main/博士論文熊代R4-1.pdf) | 日本語版の博士論文です。  
-Doctoral thesis in Japanese. |
+| [博士論文熊代R4-1.pdf](https://github.com/akira-kumashiro/doctoral_thesis/blob/main/博士論文熊代R4-1.pdf) | 日本語版の博士論文です。  Doctoral thesis in Japanese. |
 ----|----
-| [DoctoralThesis_A_Kumashiro-1.pdf](https://github.com/akira-kumashiro/doctoral_thesis/blob/main/DoctoralThesis_A_Kumashiro-1.pdf) | 英語版の博士論文です。  
-Doctoral thesis in English. |
+| [DoctoralThesis_A_Kumashiro-1.pdf](https://github.com/akira-kumashiro/doctoral_thesis/blob/main/DoctoralThesis_A_Kumashiro-1.pdf) | 英語版の博士論文です。  Doctoral thesis in English. |
